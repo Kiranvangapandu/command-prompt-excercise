@@ -1,0 +1,7 @@
+{
+ "srcDir" : "C:\\Users\\nagabhushana.rao\\Downloads\\TimelySync\\naga",
+ "destDir" : "C:\\Users\\nagabhushana.rao\\Downloads\\TimelySync\\ram",
+ "filePattern" : "*.json",
+ "additionalOptions" : "",
+ "defaultInterval" : 1
+}
